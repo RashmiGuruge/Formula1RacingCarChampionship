@@ -1,0 +1,10 @@
+test|test_team|test_location|18|1|0|1|0
+janan|rider|Denmark|0|0|0|0|0
+john|dox|Canada|5|2|0|0|0
+eric|wheeler|France|6|1|0|0|0
+kevin|triers|Sri Lanka|8|1|0|0|0
+pilip|faster|Greece|27|2|0|0|1
+mark|runners|Cuba|33|2|0|1|1
+larry|champions|Kenya|74|4|2|1|0
+David|drown|Russia|93|4|3|1|0
+kish|kingcar|India|107|7|1|2|2
